@@ -1,7 +1,7 @@
 تلميحة | مجلدات في شريط الأدوات بالمتصفح
 ########################################
 :date: 2009-02-13 23:43
-:slug: tip-1
+:slug: tech-tip-1
 :status: published
 
 " تلميحات " (tips) تصنيف جديد سأعرض فيه تلميحات بسيطة متنوعة .. قد تكون
@@ -37,10 +37,10 @@
 
 |image6|
 
-.. |image0| image:: http://blog.kalua.im/wp-content/uploads/2009/02/1.png
-.. |image1| image:: http://blog.kalua.im/wp-content/uploads/2009/02/2.png
-.. |image2| image:: http://blog.kalua.im/wp-content/uploads/2009/02/3.png
-.. |image3| image:: http://blog.kalua.im/wp-content/uploads/2009/02/4.png
-.. |image4| image:: http://blog.kalua.im/wp-content/uploads/2009/02/5.png
-.. |image5| image:: http://blog.kalua.im/wp-content/uploads/2009/02/7.png
-.. |image6| image:: http://blog.kalua.im/wp-content/uploads/2009/02/p.png
+.. |image0| image:: {filename}/images/tech-tip-1/1.png
+.. |image1| image:: {filename}/images/tech-tip-1/2.png
+.. |image2| image:: {filename}/images/tech-tip-1/3.png
+.. |image3| image:: {filename}/images/tech-tip-1/4.png
+.. |image4| image:: {filename}/images/tech-tip-1/5.png
+.. |image5| image:: {filename}/images/tech-tip-1/7.png
+.. |image6| image:: {filename}/images/tech-tip-1/p.png
