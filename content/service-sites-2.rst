@@ -44,10 +44,10 @@ Check <http://www.usernamecheck.com/>`__ ، هذا الموقع يقوم بنف�
 
 من اشهر المواقع التي تقدم خدمة قياس سرعة اتصالك .
 
-.. |service-sites| image:: {filename}/images/service-sites-2/service-sites.png
-.. |namechk| image:: {filename}/images/service-sites-2/namechk.jpg
+.. |service-sites| image:: {filename}/images/2009/service-sites-2/service-sites.png
+.. |namechk| image:: {filename}/images/2009/service-sites-2/namechk.jpg
    :target: http://namechk.com/
-.. |router-passwords| image:: {filename}/images/service-sites-2/router-passwords.jpg
+.. |router-passwords| image:: {filename}/images/2009/service-sites-2/router-passwords.jpg
    :target: http://routerpasswords.com/
-.. |speed-test| image:: {filename}/images/service-sites-2/speed-test.png
+.. |speed-test| image:: {filename}/images/2009/service-sites-2/speed-test.png
    :target: http://www.speedtest.net/

@@ -4,85 +4,73 @@
 :slug: logos-history
 :status: published
 
-kalua.imlign: center;">شركة قوقل - Google
+شركة قوقل - Google
 
-|image0|
+|google|
 
 وهذي صفحة البحث عام 1998
 
-|image1|
+|google-search|
 
-=============================================
+----
 
 شركة كانون - Canon
 
-|image2|
+|canon|
 
-=============================================
+----
 
 شركة أودبي - Adobe
 
-|image3|
+|adobe|
 
-=============================================
+----
 
 شركة إل جي - LG
 
-|image4|
+|lg|
 
-=============================================
+----
 
 متصفح الفاير فوكس - Mozilla Firefox
 
-|image5|
+|firefox|
 
-=============================================
+----
 
 شركة موتورلا - Motorola
 
-|image6|
+|motorola|
 
-=============================================
+----
 
 شركة نوكيا - Nokia
 
-|image7|
+|nokia|
 
-=============================================
+----
 
 شركة بالم - Palm
 
-|image8|
+|palm|
 
-=============================================
+----
 
 شركة زيراكس - Xerox
 
- |image9|
+ |xerox|
 
-    `المصدر <http://www.neatorama.com/2008/02/07/the-evolution-of-tech-companies-logos/>`__
+---
 
-    .. raw:: html
+`المصدر <http://www.neatorama.com/2008/02/07/the-evolution-of-tech-companies-logos/>`__
 
-       <p style="text-align: center;">
-
-.. |image0| image:: http://blog.kalua.im/wp-content/uploads/2008/02/logo-google-300x234.gif
-   :target: http://blog.kalua.im/wp-content/uploads/2008/02/logo-google.gif
-.. |image1| image:: http://blog.kalua.im/wp-content/uploads/2008/02/logo-google-1998-300x137.gif
-   :target: http://blog.kalua.im/wp-content/uploads/2008/02/logo-google-1998.gif
-.. |image2| image:: http://blog.kalua.im/wp-content/uploads/2008/02/logo-canon-300x132.gif
-   :target: http://blog.kalua.im/wp-content/uploads/2008/02/logo-canon.gif
-.. |image3| image:: http://blog.kalua.im/wp-content/uploads/2008/02/logo-adobe-300x58.gif
-   :target: http://blog.kalua.im/wp-content/uploads/2008/02/logo-adobe.gif
-.. |image4| image:: http://blog.kalua.im/wp-content/uploads/2008/02/logo-lg-300x81.gif
-   :target: http://blog.kalua.im/wp-content/uploads/2008/02/logo-lg.gif
-.. |image5| image:: http://blog.kalua.im/wp-content/uploads/2008/02/logo-firefox-300x96.gif
-   :target: http://blog.kalua.im/wp-content/uploads/2008/02/logo-firefox.gif
-.. |image6| image:: http://blog.kalua.im/wp-content/uploads/2008/02/logo-motorola-300x48.gif
-   :target: http://blog.kalua.im/wp-content/uploads/2008/02/logo-motorola.gif
-.. |image7| image:: http://blog.kalua.im/wp-content/uploads/2008/02/logo-nokia-300x222.gif
-   :target: http://blog.kalua.im/wp-content/uploads/2008/02/logo-nokia.gif
-.. |image8| image:: http://blog.kalua.im/wp-content/uploads/2008/02/logo-palm-300x98.gif
-   :target: http://blog.kalua.im/wp-content/uploads/2008/02/logo-palm.gif
-.. |image9| image:: http://blog.kalua.im/wp-content/uploads/2008/02/logo-xerox-300x150.gif
-   :target: http://blog.kalua.im/wp-content/uploads/2008/02/logo-xerox.gif
+.. |google| image:: {filename}/images/2008/logos-history/logo-google.gif
+.. |google-search| image:: {filename}/images/2008/logos-history/logo-google-1998.gif
+.. |canon| image:: {filename}/images/2008/logos-history/logo-canon.gif
+.. |adobe| image:: {filename}/images/2008/logos-history/logo-adobe.gif
+.. |lg| image:: {filename}/images/2008/logos-history/logo-lg.gif
+.. |firefox| image:: {filename}/images/2008/logos-history/logo-firefox.gif
+.. |motorola| image:: {filename}/images/2008/logos-history/logo-motorola.gif
+.. |nokia| image:: {filename}/images/2008/logos-history/logo-nokia.gif
+.. |palm| image:: {filename}/images/2008/logos-history/logo-palm.gif
+.. |xerox| image:: {filename}/images/2008/logos-history/logo-xerox.gif

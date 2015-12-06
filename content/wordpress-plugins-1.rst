@@ -9,7 +9,6 @@
 في هذه التدوينة أعرض بعض من الإضافات المستخدمة في المدونة بالاضافة الى
 روابط تحميلها
 
-::
 
 **Math Comment Spam Protection**
 
@@ -50,6 +49,6 @@ php في القائمة الجانبية
 
 `للتحميل <http://wordpress.org/extend/plugins/php-code-widget/>`__ (موقع الووردبريس)
 
-.. |wordpress-plugins| image:: {filename}/images/wordpress-plugins-1/wordpress-plugins.jpg
-.. |math-comment-spam-protection| image:: {filename}/images/wordpress-plugins-1/math-comment-spam-protection.png
-.. |page-bar| image:: {filename}/images/wordpress-plugins-1/page-bar.png
+.. |wordpress-plugins| image:: {filename}/images/2009/wordpress-plugins-1/wordpress-plugins.jpg
+.. |math-comment-spam-protection| image:: {filename}/images/2009/wordpress-plugins-1/math-comment-spam-protection.png
+.. |page-bar| image:: {filename}/images/2009/wordpress-plugins-1/page-bar.png

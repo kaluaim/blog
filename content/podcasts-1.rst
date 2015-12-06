@@ -97,25 +97,25 @@ iTunes
 بإمكانك الحصول على رابط كل بودكاست في iTunes من خلال الضغط على صورة
 البودكاست
 
-.. |podcast-icon| image:: {filename}/images/podcasts-1/podcast-icon.jpg
-.. |Revision3| image:: {filename}/images/podcasts-1/Revision3.png
-.. |the-digg-reel| image:: {filename}/images/podcasts-1/the-digg-reel.png
+.. |podcast-icon| image:: {filename}/images/2009/podcasts-1/podcast-icon.jpg
+.. |Revision3| image:: {filename}/images/2009/podcasts-1/Revision3.png
+.. |the-digg-reel| image:: {filename}/images/2009/podcasts-1/the-digg-reel.png
    :target: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=273068942
-.. |tekzilla| image:: {filename}/images/podcasts-1/tekzilla.png
+.. |tekzilla| image:: {filename}/images/2009/podcasts-1/tekzilla.png
    :target: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=117905516
-.. |film-riot| image:: {filename}/images/podcasts-1/film-riot.png
+.. |film-riot| image:: {filename}/images/2009/podcasts-1/film-riot.png
    :target: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=318097148
-.. |rofl| image:: {filename}/images/podcasts-1/rofl.png
+.. |rofl| image:: {filename}/images/2009/podcasts-1/rofl.png
    :target: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=316077041
-.. |scam-school| image:: {filename}/images/podcasts-1/scam-school.png
+.. |scam-school| image:: {filename}/images/2009/podcasts-1/scam-school.png
    :target: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=278107148
-.. |web-drifter| image:: {filename}/images/podcasts-1/web-drifter.png
+.. |web-drifter| image:: {filename}/images/2009/podcasts-1/web-drifter.png
    :target: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=196505244
-.. |best-of-youtube| image:: {filename}/images/podcasts-1/best-of-youtube.png
+.. |best-of-youtube| image:: {filename}/images/2009/podcasts-1/best-of-youtube.png
    :target: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=205372733
-.. |unboxing-live| image:: {filename}/images/podcasts-1/unboxing-live.png
+.. |unboxing-live| image:: {filename}/images/2009/podcasts-1/unboxing-live.png
    :target: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=182542127
-.. |gadget-lab| image:: {filename}/images/podcasts-1/gadget-lab.png
+.. |gadget-lab| image:: {filename}/images/2009/podcasts-1/gadget-lab.png
    :target: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=286465963
-.. |start-cooking| image:: {filename}/images/podcasts-1/start-cooking.png
+.. |start-cooking| image:: {filename}/images/2009/podcasts-1/start-cooking.png
    :target: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=208070383
