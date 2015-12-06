@@ -4,7 +4,7 @@
 :slug: windows-seven
 :status: published
 
-|image0|
+|windows-seven|
 
 خلال الاربع أيام السابقة قمت بتجربة Windows Seven نسخة  beta طبعاً ..
 ومن خلال هذه التدوينة سأسرد تجربتي للنظام
@@ -128,38 +128,29 @@ Task bar لتسهيل الوصول إليها ، عند فتح برنامج فإ
 التجربة كانت سريع ولم أتعمق فيه بشكل كبير .. وهناك امور كثيرة لم
 استكشفها سأتركها لكم :) .
 
-.. |image0| image:: http://blog.kalua.im/wp-content/uploads/2009/02/win7.jpg
-.. |image1| image:: http://blog.kalua.im/wp-content/uploads/2009/02/01.jpg
-.. |image2| image:: http://blog.kalua.im/wp-content/uploads/2009/02/02.jpg
-.. |image3| image:: http://blog.kalua.im/wp-content/uploads/2009/02/03.jpg
-.. |image4| image:: http://blog.kalua.im/wp-content/uploads/2009/02/04.jpg
-.. |image5| image:: http://blog.kalua.im/wp-content/uploads/2009/02/05.jpg
-.. |image6| image:: http://blog.kalua.im/wp-content/uploads/2009/02/06.jpg
-.. |image7| image:: http://blog.kalua.im/wp-content/uploads/2009/02/07.jpg
-.. |image8| image:: http://blog.kalua.im/wp-content/uploads/2009/02/08.jpg
-.. |image9| image:: http://blog.kalua.im/wp-content/uploads/2009/02/09.jpg
-.. |image10| image:: http://blog.kalua.im/wp-content/uploads/2009/02/10.jpg
-.. |image11| image:: http://blog.kalua.im/wp-content/uploads/2009/02/11.jpg
-.. |image12| image:: http://blog.kalua.im/wp-content/uploads/2009/02/12.jpg
-.. |image13| image:: http://blog.kalua.im/wp-content/uploads/2009/02/13.jpg
-.. |image14| image:: http://blog.kalua.im/wp-content/uploads/2009/02/14.jpg
-.. |image15| image:: http://blog.kalua.im/wp-content/uploads/2009/02/15.jpg
-.. |image16| image:: http://blog.kalua.im/wp-content/uploads/2009/02/16.jpg
-.. |image17| image:: http://blog.kalua.im/wp-content/uploads/2009/02/17.jpg
-   :target: http://blog.kalua.im/wp-content/uploads/2009/02/17.jpg
-.. |image18| image:: http://blog.kalua.im/wp-content/uploads/2009/02/18.jpg
-   :target: http://blog.kalua.im/wp-content/uploads/2009/02/18.jpg
-.. |image19| image:: http://blog.kalua.im/wp-content/uploads/2009/02/19.jpg
-   :target: http://blog.kalua.im/wp-content/uploads/2009/02/19.jpg
-.. |image20| image:: http://blog.kalua.im/wp-content/uploads/2009/02/20.jpg
-   :target: http://blog.kalua.im/wp-content/uploads/2009/02/20.jpg
-.. |image21| image:: http://blog.kalua.im/wp-content/uploads/2009/02/21.jpg
-   :target: http://blog.kalua.im/wp-content/uploads/2009/02/21.jpg
-.. |image22| image:: http://blog.kalua.im/wp-content/uploads/2009/02/22.jpg
-   :target: http://blog.kalua.im/wp-content/uploads/2009/02/22.jpg
-.. |image23| image:: http://blog.kalua.im/wp-content/uploads/2009/02/23.jpg
-   :target: http://blog.kalua.im/wp-content/uploads/2009/02/23.jpg
-.. |image24| image:: http://blog.kalua.im/wp-content/uploads/2009/02/24.jpg
-   :target: http://blog.kalua.im/wp-content/uploads/2009/02/24.jpg
-.. |image25| image:: http://blog.kalua.im/wp-content/uploads/2009/02/26.jpg
-   :target: http://blog.kalua.im/wp-content/uploads/2009/02/26.jpg
+.. |windows-seven| image:: {filename}/images/windows-seven/windows-seven.jpg
+.. |image1| image:: {filename}/images/windows-seven/01.jpg
+.. |image2| image:: {filename}/images/windows-seven/02.jpg
+.. |image3| image:: {filename}/images/windows-seven/03.jpg
+.. |image4| image:: {filename}/images/windows-seven/04.jpg
+.. |image5| image:: {filename}/images/windows-seven/05.jpg
+.. |image6| image:: {filename}/images/windows-seven/06.jpg
+.. |image7| image:: {filename}/images/windows-seven/07.jpg
+.. |image8| image:: {filename}/images/windows-seven/08.jpg
+.. |image9| image:: {filename}/images/windows-seven/09.jpg
+.. |image10| image:: {filename}/images/windows-seven/10.jpg
+.. |image11| image:: {filename}/images/windows-seven/11.jpg
+.. |image12| image:: {filename}/images/windows-seven/12.jpg
+.. |image13| image:: {filename}/images/windows-seven/13.jpg
+.. |image14| image:: {filename}/images/windows-seven/14.jpg
+.. |image15| image:: {filename}/images/windows-seven/15.jpg
+.. |image16| image:: {filename}/images/windows-seven/16.jpg
+.. |image17| image:: {filename}/images/windows-seven/17.jpg
+.. |image18| image:: {filename}/images/windows-seven/18.jpg
+.. |image19| image:: {filename}/images/windows-seven/19.jpg
+.. |image20| image:: {filename}/images/windows-seven/20.jpg
+.. |image21| image:: {filename}/images/windows-seven/21.jpg
+.. |image22| image:: {filename}/images/windows-seven/22.jpg
+.. |image23| image:: {filename}/images/windows-seven/23.jpg
+.. |image24| image:: {filename}/images/windows-seven/24.jpg
+.. |image25| image:: {filename}/images/windows-seven/25.jpg
