@@ -4,50 +4,50 @@
 :slug: service-sites-2
 :status: published
 
-|image0|
+|service-sites|
 
 بوست جديدة تابع لسلسة `مواقع
 خدمية <http://blog.kalua.im/124/service-sites-1>`__ .. في هذا البوست
 سأطرح خمسة مواقع خدمية
 
-    1
+1
 
-    |image1|
+|namechk|
 
-    ذكرت في البوست السابق عن موقع `User Name
-    Check <http://www.usernamecheck.com/>`__ ، هذا الموقع يقوم بنفس
-    الوظيفة لكن بمواقع اكثر!
+ذكرت في البوست السابق عن موقع `User Name
+Check <http://www.usernamecheck.com/>`__ ، هذا الموقع يقوم بنفس
+الوظيفة لكن بمواقع اكثر!
 
-    2
+2
 
-    `Is This Down <http://isthisdown.com/index.html>`__
+`Is This Down <http://isthisdown.com/index.html>`__
 
-    اذا كان هناك عطل في موقعك ، يقوم الموقع بالتأكد هل هذا العطل لديك
-    فقط ام لدى الجميع .
+اذا كان هناك عطل في موقعك ، يقوم الموقع بالتأكد هل هذا العطل لديك
+فقط ام لدى الجميع .
 
-    3
+3
 
-    |image2|
+|router-passwords|
 
-    يحتوى على اليوزر والباسورد الافتراضي لعدد كبير من الراوترات .
+يحتوى على اليوزر والباسورد الافتراضي لعدد كبير من الراوترات .
 
-    4
+4
 
-    `يوزارت <http://uzerat.com/>`__
+`يوزارت <http://uzerat.com/>`__
 
-    يساعدك للحصول على يوزر للمنتديات التي تطلب التسجيل لمشاهدة المحتوى ،
-    بإمكانك المشاركة بإضافة منتديات جديدة .
+يساعدك للحصول على يوزر للمنتديات التي تطلب التسجيل لمشاهدة المحتوى ،
+بإمكانك المشاركة بإضافة منتديات جديدة .
 
-    5
+5
 
-    |image3|
+|speed-test|
 
-    من اشهر المواقع التي تقدم خدمة قياس سرعة اتصالك .
+من اشهر المواقع التي تقدم خدمة قياس سرعة اتصالك .
 
-.. |image0| image:: http://blog.kalua.im/wp-content/uploads/2009/10/web-300x300.png
-.. |image1| image:: http://blog.kalua.im/wp-content/uploads/2009/10/logo-smaller.jpg
+.. |service-sites| image:: {filename}/images/service-sites-2/service-sites.png
+.. |namechk| image:: {filename}/images/service-sites-2/namechk.jpg
    :target: http://namechk.com/
-.. |image2| image:: http://blog.kalua.im/wp-content/uploads/2009/10/rplogo2.jpg
+.. |router-passwords| image:: {filename}/images/service-sites-2/router-passwords.jpg
    :target: http://routerpasswords.com/
-.. |image3| image:: http://blog.kalua.im/wp-content/uploads/2009/10/speed.png
+.. |speed-test| image:: {filename}/images/service-sites-2/speed-test.png
    :target: http://www.speedtest.net/
