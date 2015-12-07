@@ -49,6 +49,6 @@ php في القائمة الجانبية
 
 `للتحميل <http://wordpress.org/extend/plugins/php-code-widget/>`__ (موقع الووردبريس)
 
-.. |wordpress-plugins| image:: {filename}/images/2009/wordpress-plugins-1/wordpress-plugins.jpg
-.. |math-comment-spam-protection| image:: {filename}/images/2009/wordpress-plugins-1/math-comment-spam-protection.png
-.. |page-bar| image:: {filename}/images/2009/wordpress-plugins-1/page-bar.png
+.. |wordpress-plugins| image:: {filename}/uploads/2009/wordpress-plugins-1/wordpress-plugins.jpg
+.. |math-comment-spam-protection| image:: {filename}/uploads/2009/wordpress-plugins-1/math-comment-spam-protection.png
+.. |page-bar| image:: {filename}/uploads/2009/wordpress-plugins-1/page-bar.png

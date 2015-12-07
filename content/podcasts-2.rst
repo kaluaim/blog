@@ -98,28 +98,28 @@ Verge.
 الأشخاص بتجربتها وعرض إنطباعاتهم عنها وإعطاء الإيجابيات والسلبيات لكل
 منتج.
 
-.. |Revision3| image:: {filename}/images/2013/podcasts-2/Revision3.png
-.. |Hak5| image:: {filename}/images/2013/podcasts-2/Hak5.jpg
+.. |Revision3| image:: {filename}/uploads/2013/podcasts-2/Revision3.png
+.. |Hak5| image:: {filename}/uploads/2013/podcasts-2/Hak5.jpg
    :target: https://itunes.apple.com/us/podcast/hak5-hd-mp4-30fps/id303170487?mt=2
-.. |ThreatWire| image:: {filename}/images/2013/podcasts-2/ThreatWire.jpg
+.. |ThreatWire| image:: {filename}/uploads/2013/podcasts-2/ThreatWire.jpg
    :target: https://itunes.apple.com/us/podcast/threat-wire-hd-mp4-30fps/id668693641?mt=2
-.. |HDNation| image:: {filename}/images/2013/podcasts-2/HDNation.jpg
+.. |HDNation| image:: {filename}/uploads/2013/podcasts-2/HDNation.jpg
    :target: https://itunes.apple.com/us/podcast/hd-nation-hd-mp4-30fps/id323878308?mt=2
-.. |foundation| image:: {filename}/images/2013/podcasts-2/foundation.jpg
+.. |foundation| image:: {filename}/uploads/2013/podcasts-2/foundation.jpg
    :target: https://itunes.apple.com/us/podcast/foundation-hd-mp4-30fps/id412887856?mt=2
-.. |film-state| image:: {filename}/images/2013/podcasts-2/film-state.jpg
+.. |film-state| image:: {filename}/uploads/2013/podcasts-2/film-state.jpg
    :target: https://itunes.apple.com/us/podcast/film-state-hd-mp4-30fps/id424859207?mt=2
-.. |the-ben-heck-show| image:: {filename}/images/2013/podcasts-2/the-ben-heck-show.jpg
+.. |the-ben-heck-show| image:: {filename}/uploads/2013/podcasts-2/the-ben-heck-show.jpg
    :target: https://itunes.apple.com/us/podcast/the-ben-heck-show-hd-mp4-30fps/id392570612?mt=2
-.. |annies-bits| image:: {filename}/images/2013/podcasts-2/annies-bits.jpg
+.. |annies-bits| image:: {filename}/uploads/2013/podcasts-2/annies-bits.jpg
    :target: https://itunes.apple.com/us/podcast/annies-bits-hd-mp4-30fps/id510186523?mt=2
-.. |the-verge| image:: {filename}/images/2013/podcasts-2/the-verge.jpg
-.. |on-the-verge| image:: {filename}/images/2013/podcasts-2/on-the-verge.jpg
+.. |the-verge| image:: {filename}/uploads/2013/podcasts-2/the-verge.jpg
+.. |on-the-verge| image:: {filename}/uploads/2013/podcasts-2/on-the-verge.jpg
    :target: https://itunes.apple.com/us/podcast/on-the-verge/id481290460?mt=2
-.. |top-shelf| image:: {filename}/images/2013/podcasts-2/top-shelf.jpg
+.. |top-shelf| image:: {filename}/uploads/2013/podcasts-2/top-shelf.jpg
    :target: https://itunes.apple.com/us/podcast/top-shelf/id617701472?mt=2
-.. |90sotv| image:: {filename}/images/2013/podcasts-2/90sotv.png
+.. |90sotv| image:: {filename}/uploads/2013/podcasts-2/90sotv.png
    :target: http://www.theverge.com/video/90sotv
-.. |TWiT| image:: {filename}/images/2013/podcasts-2/TWiT.png
-.. |before-you-buy| image:: {filename}/images/2013/podcasts-2/before-you-buy.jpg
+.. |TWiT| image:: {filename}/uploads/2013/podcasts-2/TWiT.png
+.. |before-you-buy| image:: {filename}/uploads/2013/podcasts-2/before-you-buy.jpg
    :target: https://itunes.apple.com/us/podcast/before-you-buy-video-hd/id553539133?mt=2

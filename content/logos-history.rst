@@ -64,13 +64,13 @@
 
 `المصدر <http://www.neatorama.com/2008/02/07/the-evolution-of-tech-companies-logos/>`__
 
-.. |google| image:: {filename}/images/2008/logos-history/logo-google.gif
-.. |google-search| image:: {filename}/images/2008/logos-history/logo-google-1998.gif
-.. |canon| image:: {filename}/images/2008/logos-history/logo-canon.gif
-.. |adobe| image:: {filename}/images/2008/logos-history/logo-adobe.gif
-.. |lg| image:: {filename}/images/2008/logos-history/logo-lg.gif
-.. |firefox| image:: {filename}/images/2008/logos-history/logo-firefox.gif
-.. |motorola| image:: {filename}/images/2008/logos-history/logo-motorola.gif
-.. |nokia| image:: {filename}/images/2008/logos-history/logo-nokia.gif
-.. |palm| image:: {filename}/images/2008/logos-history/logo-palm.gif
-.. |xerox| image:: {filename}/images/2008/logos-history/logo-xerox.gif
+.. |google| image:: {filename}/uploads/2008/logos-history/logo-google.gif
+.. |google-search| image:: {filename}/uploads/2008/logos-history/logo-google-1998.gif
+.. |canon| image:: {filename}/uploads/2008/logos-history/logo-canon.gif
+.. |adobe| image:: {filename}/uploads/2008/logos-history/logo-adobe.gif
+.. |lg| image:: {filename}/uploads/2008/logos-history/logo-lg.gif
+.. |firefox| image:: {filename}/uploads/2008/logos-history/logo-firefox.gif
+.. |motorola| image:: {filename}/uploads/2008/logos-history/logo-motorola.gif
+.. |nokia| image:: {filename}/uploads/2008/logos-history/logo-nokia.gif
+.. |palm| image:: {filename}/uploads/2008/logos-history/logo-palm.gif
+.. |xerox| image:: {filename}/uploads/2008/logos-history/logo-xerox.gif

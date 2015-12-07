@@ -89,4 +89,4 @@ Server) مثل (`MIT PGP Public Key Server <http://pgp.mit.edu/>`__) أو
 
 `حقوق الصورة <http://www.pgpi.org/doc/pgpintro/>`__
 
-.. |pretty-good-privacy| image:: {filename}/images/2013/pretty-good-privacy/pretty-good-privacy.gif
+.. |pretty-good-privacy| image:: {filename}/uploads/2013/pretty-good-privacy/pretty-good-privacy.gif

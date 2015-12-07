@@ -8,8 +8,8 @@ SITEURL = ''
 PATH = 'content'
 TIMEZONE = 'Asia/Riyadh'
 DEFAULT_LANG = u'ar'
-TATIC_PATHS = ['images', 'pdfs']
-DEFAULT_CATEGORY = 'misc'	
+STATIC_PATHS = ['uploads']
+DEFAULT_CATEGORY = 'misc'
 # THEME = '/home/kal/opt/blog/venv/local/lib/python2.7/site-packages/pelican/themes/pelican-svbhack-master'
 
 # Feed generation is usually not desired when developing

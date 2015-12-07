@@ -59,9 +59,9 @@
 
 للتحويل من طريقة الكتابة العربيزي إلى العربية والعكس .
 
-.. |service-sites| image:: {filename}/images/2009/service-sites-1/service-sites.png
+.. |service-sites| image:: {filename}/uploads/2009/service-sites-1/service-sites.png
 .. |image1| image:: http://www.photofunia.com/img/system/logo.png
-.. |7awel| image:: {filename}/images/2009/service-sites-1/7awel.png
-.. |image3| image:: http://feedit.shamekh.ws/images/logo-1.gif
+.. |7awel| image:: {filename}/uploads/2009/service-sites-1/7awel.png
+.. |image3| image:: http://feedit.shamekh.ws/uploads/logo-1.gif
 .. |image4| image:: http://www.roundpic.com/img/picture.gif
-.. |image5| image:: http://www.3rbeze.net/images/wxa_02.png
+.. |image5| image:: http://www.3rbeze.net/uploads/wxa_02.png
