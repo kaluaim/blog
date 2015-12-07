@@ -1,7 +1,7 @@
 ساعة الأرض  2010  Earth Hour
 ############################
 :date: 2010-03-26 02:32
-:slug: earthhour2010
+:slug: earth-hour-2010
 :status: published
 
 |image0|
@@ -11,11 +11,13 @@
 الثاني هو السبت الاخير من شهر مارس (الموعد السنويي لهذا الحدث)، وتكون
 ساعة الارض من الساعة 8:30 – 9:30 حسب التوقيت المحلي للدولة.
 
-    لمزيد من المعلومات عن ساعة الارض يمكنك زيارة:
+لمزيد من المعلومات عن ساعة الارض يمكنك زيارة:
 
-    `الموقع الرسمي للحدث <http://www.earthhour.org/>`__ أو  `الموقع
-    الرسمي للحدث في
-    السعودية <http://www.saudiwildlife.com/earthhour/>`__ أو  `تدوينتي
-    للعام الماضي عن الحدث <http://blog.kalua.im/386/earthhour-2009/>`__.
+`الموقع الرسمي للحدث <http://www.earthhour.org/>`__
+أو
+`الموقع الرسمي للحدث في السعودية <http://www.saudiwildlife.com/earthhour/>`__
+أو
+`تدوينتي  للعام الماضي عن الحدث <http://blog.kalua.im/386/earthhour-2009/>`__
+.
 
-.. |image0| image:: http://blog.kalua.im/wp-content/uploads/2010/03/earthhour-300x251.jpg
+.. |image0| image:: {filename}/uploads/2010/earth-hour-2010/earthhour.jpg
