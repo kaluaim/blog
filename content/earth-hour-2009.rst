@@ -1,7 +1,7 @@
 ساعة الأرض .. Earth Hour
 ########################
 :date: 2009-03-26 23:17
-:slug: earthhour-2009
+:slug: earth-hour-2009
 :status: published
 
 |image0|
@@ -10,11 +10,11 @@
 من الأسر والشركات  إطفاء الأنوار غير الضرورية والاجهزة الكهربائية لمدة
 ساعة واحدة لرفع مستوى الوعي تجاه البيئة وما تسببه تلك الاجهزة من اضرار
 مثل ظاهرة الإحتباس الحراري وغيرها.
-`للمزيد <http://en.wikipedia.org/wiki/Earth_Hour>`__ ..
+`للمزيد <http://en.wikipedia.org/wiki/Earth_Hour>`__
 
 يوم السبت القادم 28 / 3 / 2009  ، الموافق 1 / 4 / 1430 هو اليوم المحدد
 لهذا الحدث وتكون ساعة الارض من الساعة 8:30 - 9:30 حسب التوقيت المحلي
 للدولة .. لمزيد من المعلومات وللتسجيل  والحصول على بعض الوسائط يمكنك
 زيارة موقع `ساعة الارض <http://www.earthhour.org/home/>`__ .
 
-.. |image0| image:: http://blog.kalua.im/wp-content/uploads/2009/03/earthhour.jpg
+.. |image0| image:: {filename}/uploads/2009/earth-hour-2009/earthhour.jpg
