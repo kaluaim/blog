@@ -11,7 +11,7 @@
 تهتم باصغر التفاصيل .. لكن هدفنا من هذا البوست هو من يقف خلف هذه
 الشعارات الرئعة
 
-**Dennis** Hwang
+**Dennis Hwang**
 
 |image1|
 
@@ -21,10 +21,10 @@
 إلى الأعياد .. `للمزيد وللإطلاع على مقابلة نصية مع
 دينيس <http://www.google.com.eg/intl/ar/doodle4google/doodler.html>`__ "
 
-    مقطع يبين المدة التي يستغرقها دينيس وطريقته في التصميم
+مقطع يبين المدة التي يستغرقها دينيس وطريقته في التصميم
 
-    ومن `هنا <http://www.google.com/holidaylogos.html>`__ بإمكانك
-    الاطلاع على جميع شعارات قوقل من عام 1999 إلى عامنا هذا
+ومن `هنا <http://www.google.com/holidaylogos.html>`__ بإمكانك
+الاطلاع على جميع شعارات قوقل من عام 1999 إلى عامنا هذا
 
-.. |image0| image:: http://kaluaim.com/blog/wp-content/uploads/2009/06/lego08.gif
-.. |image1| image:: http://kaluaim.com/blog/wp-content/uploads/2009/06/dennis_hwang.jpg
+.. |image0| image:: {filename}/uploads/2009/google-logos/lego08.gif
+.. |image1| image:: {filename}/uploads/2009/google-logos/dennis_hwang.jpg
