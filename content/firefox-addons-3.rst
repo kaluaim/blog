@@ -1,7 +1,7 @@
 إضافات الفايرفوكس 3
 ###################
 :date: 2010-01-26 01:50
-:slug: firefox-add-3
+:slug: firefox-addons-3
 :status: published
 
 |image1|
