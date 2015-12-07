@@ -1,7 +1,7 @@
 تطّور الفوتوشوب  1988 - 2009
 ###########################
 :date: 2009-05-15 02:44
-:slug: adobephotoshop-evolution
+:slug: adobe-photoshop-evolution
 :status: published
 
 برنامج ادوبي فوتوشوب يعد من افضل برامج تحرير الصور والتصميم - إن لم يكن
@@ -12,183 +12,165 @@ Knoll** .. وبما يقارب العقدين حصل الفوتوشوب على �
 حصلت عليه الاصدارات الاحداث وصولاً إلى آحدث اصدار من البرنامج **Adobe
 Photoshop CS4**
 
-    .. rubric:: ايقونة البرنامج - Application Icon
-       :name: ايقونة-البرنامج---application-icon
+.. rubric:: ايقونة البرنامج - Application Icon
 
 |image0|
 
-Adobe Photoshop .63 *- 1988*
+Adobe Photoshop .63 - *1988*
 
-*
-*
 
- |image1|
 
-Adobe Photoshop .87 *- 1989*
+|image1|
 
-*
-*
+Adobe Photoshop .87 - *1989*
 
- |image2|
 
-Adobe Photoshop 1.0 *- 1990*
 
-*
-*
+|image2|
+
+Adobe Photoshop 1.0 - *1990*
+
+
 
 |image3|
 
-Adobe Photoshop 2.0 *- 1993*
+Adobe Photoshop 2.0 - *1993*
 
-*
-*
 
- |image4|
 
-Adobe Photoshop 2.5 *- 1993*
+|image4|
 
-*
-*
+Adobe Photoshop 2.5 - *1993*
 
- |image5|
 
-Adobe Photoshop 3.0 *- 1995*
 
-*
-*
+|image5|
+
+Adobe Photoshop 3.0 - *1995*
+
+
 
 |image6|
 
-Adobe Photoshop 4.0 *- 1996*
+Adobe Photoshop 4.0 - *1996*
 
-*
-*
 
- |image7|
 
-Adobe Photoshop 5.0 *- 1998*
+|image7|
 
-*
-*
+Adobe Photoshop 5.0 - *1998*
 
- |image8|
 
-Adobe Photoshop 5.5 *- 1998*
 
-*
-*
+|image8|
 
- |image9|
+Adobe Photoshop 5.5 - *1998*
 
-Adobe Photoshop 6.0 *- 2000*
 
-*
-*
 
- |image10|
+|image9|
 
-Adobe Photoshop 7.0 *- 2002*
+Adobe Photoshop 6.0 - *2000*
 
-*
-*
+
+
+|image10|
+
+Adobe Photoshop 7.0 - *2002*
+
+
 
 |image11|
 
-Creative Suite 1 *- 2003*
+Creative Suite 1 - *2003*
 
-*
-*
+
 
 |image12|
 
-Creative Suite 2 *- 2005*
+Creative Suite 2 - *2005*
 
-*
-*
+
 
 |image13|
 
-Creative Suite 3 *- 2007*
+Creative Suite 3 - *2007*
 
-*
-*
+
 
 |image14|
 
-Creative Suite 4 *- 2009*
+Creative Suite 4 - *2009*
 
-*
-*
 
-    .. rubric:: شاشة الترحيب  -  Welcome Splash / About Screen
-       :name: شاشة-الترحيب---welcome-splash-about-screen
 
-**Adobe Photoshop .07 *- 1988***
+.. rubric:: شاشة الترحيب  -  Welcome Splash / About Screen
+
+Adobe Photoshop .07 - *1988*
 
 |image15|
 
-**Adobe Photoshop .63 *- 1988***
+Adobe Photoshop .63 - *1988*
 
 |image16|
 
-**Adobe Photoshop .87 *- 1989***
+Adobe Photoshop .87 - *1989*
 
 |image17|
 
-**Adobe Photoshop 1.0 *- 1990***
+Adobe Photoshop 1.0 - *1990*
 
 |image18|
 
-**Adobe Photoshop 2.0 *- 1993***
+Adobe Photoshop 2.0 - *1993*
 
 |image19|
 
-**Adobe Photoshop 2.5 *- 1993***
+Adobe Photoshop 2.5 - *1993*
 
 |image20|
 
-**Adobe Photoshop 3.0 *- 1995***
+Adobe Photoshop 3.0 - *1995*
 
 |image21|
 
-**Adobe Photoshop 4.0 *- 1996***
+Adobe Photoshop 4.0 - *1996*
 
 |image22|
 
-**Adobe Photoshop 5.0 *- 1998***
+Adobe Photoshop 5.0 - *1998*
 
 |image23|
 
-**Adobe Photoshop 5.5 *- 1998***
+Adobe Photoshop 5.5 - *1998*
 
 |image24|
 
-**Adobe Photoshop 6.0 *- 2000***
+Adobe Photoshop 6.0 - *2000*
 
 |image25|
 
-**Adobe Photoshop 7.0 *- 2002***
+Adobe Photoshop 7.0 - *2002*
 
 |image26|
 
-**Creative Suite 1 *- 2003***
+Creative Suite 1 - *2003*
 
 |image27|
 
-**Creative Suite 2 *- 2005***
+Creative Suite 2 - *2005*
 
 |image28|
 
-**Creative Suite 3 *- 2007***
+Creative Suite 3 - *2007*
 
 |image29|
 
-**Creative Suite 4 *- 2009***
+Creative Suite 4 - *2009*
 
 |image30|
 
-    .. rubric:: شريط الأدوات - Toolbars
-       :name: شريط-الأدوات---toolbars
+.. rubric:: شريط الأدوات - Toolbars
 
 +------------------------------+------------------------------+------------------------------+------------------------------+-------------------------------+
 | Adobe Photoshop .63 *1988*   | Adobe Photoshop .87 *1989*   | Adobe Photoshop 1.0 *1990*   | Adobe Photoshop 2.0 *1993*   | Adobe Photoshop 2.5 *1993*    |
@@ -201,62 +183,61 @@ Creative Suite 4 *- 2009*
 |  |image41|                   |  |image42|                   |  |image43|                   |  |image44|                   |  |image45|                    |
 +------------------------------+------------------------------+------------------------------+------------------------------+-------------------------------+
 
-    .. rubric:: مساحة العمل - Workspace
-       :name: مساحة-العمل---workspace
+.. rubric:: مساحة العمل - Workspace
 
-**Adobe Photoshop 0.63 *- 1988***
+Adobe Photoshop 0.63 - *1988*
 
 |image46|
 
-**Adobe Photoshop 1.0 *- 1990***
+Adobe Photoshop 1.0 - *1990*
 
 |image47|
 
-**Adobe Photoshop 2.5 *- 1993***
+Adobe Photoshop 2.5 - *1993*
 
 |image48|
 
-**Adobe Photoshop 3.0 *- 1995***
+Adobe Photoshop 3.0 - *1995*
 
 |image49|
 
-**Adobe Photoshop 4.0 *- 1996***
+Adobe Photoshop 4.0 - *1996*
 
 |image50|
 
-**Adobe Photoshop 5.0 *- 1998***
+Adobe Photoshop 5.0 - *1998*
 
 |image51|
 
-**Adobe Photoshop 5.5 *- 1998***
+Adobe Photoshop 5.5 - *1998*
 
 |image52|
 
-**Adobe Photoshop 6.0 *- 2000***
+Adobe Photoshop 6.0 - *2000*
 
 |image53|
 
-**Adobe Photoshop 7.0 *- 2002***
+Adobe Photoshop 7.0 - *2002*
 
 |image54|
 
-**Creative Suite 1 *- 2003***
+Creative Suite 1 - *2003*
 
 |image55|
 
-**Creative Suite 2 *- 2005***
+Creative Suite 2 - *2005*
 
 |image56|
 
-**Creative Suite 3 *- 2007***
+Creative Suite 3 - *2007*
 
 |image57|
 
-**Creative Suite 4 *- 2009***
+Creative Suite 4 - *2009*
 
 |image58|
 
-    `المصدر <http://www.hongkiat.com/blog/evolution-of-photoshop/>`__
+`المصدر <http://www.hongkiat.com/blog/evolution-of-photoshop/>`__
 
 .. |image0| image:: http://hongki.at/images/photoshop_evolutions/10.png
 .. |image1| image:: http://hongki.at/images/photoshop_evolutions/10.png
