@@ -3,14 +3,14 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'khalid'
-SITENAME = u'kaluaim'
+SITENAME = u'Khalid Alnuaim blog'
 SITEURL = ''
 PATH = 'content'
 TIMEZONE = 'Asia/Riyadh'
 DEFAULT_LANG = u'ar'
 STATIC_PATHS = ['uploads']
 DEFAULT_CATEGORY = 'misc'
-# THEME = '/home/kal/opt/blog/venv/local/lib/python2.7/site-packages/pelican/themes/pelican-svbhack-master'
+THEME = '/Users/khalidAlnuaim/workspace/theme'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -20,18 +20,29 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-"""LINKS = (('Pelican', 'http://getpelican.com/'),
+LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
-         """
+         ('linktesting', '#'),)
+
 
 # Social widget
-"""SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-          """
+SOCIAL = (('twiiter', '#'),
+          ('linkedin', '#'),)
 
-DEFAULT_PAGINATION = 20
+
+DEFAULT_PAGINATION = 3
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+
+# Theme settings
+TAGLINE = 'Software engineer devoted to Automation. Work @Red Hat.'
+
+# if 'rtl' if will import rtl.css to the site.
+SITE_DIRECTION = 'rtl'
+FS_SIDE_TITLE_PAGES = 'Pages'
+FS_SIDE_TITLE_MENUITEM = 'Menu Items'
+FS_SIDE_TITLE_LINKS = 'Links'
+FS_SIDE_TITLE_SOCIAL = 'Social'
