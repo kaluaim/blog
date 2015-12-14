@@ -1,4 +1,4 @@
-Helvetica
+هلفتيكا
 #########
 :date: 2009-12-17 07:05
 :slug: helvetica

@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'khalid'
-SITENAME = u'Khalid Alnuaim blog'
+AUTHOR = u'خالد'
+SITENAME = u'مدونة كاليّم'
 SITEURL = ''
 PATH = 'content'
 TIMEZONE = 'Asia/Riyadh'
@@ -11,6 +11,8 @@ DEFAULT_LANG = u'ar'
 STATIC_PATHS = ['uploads']
 DEFAULT_CATEGORY = 'misc'
 THEME = '/Users/khalidAlnuaim/workspace/theme'
+LOCALE = ('en')
+DEFAULT_DATE_FORMAT = '%d / %m / %Y'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -31,18 +33,20 @@ SOCIAL = (('twiiter', '#'),
           ('linkedin', '#'),)
 
 
-DEFAULT_PAGINATION = 3
+DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
 
 # Theme settings
-TAGLINE = 'Software engineer devoted to Automation. Work @Red Hat.'
+TAGLINE = ''
 
 # if 'rtl' if will import rtl.css to the site.
 SITE_DIRECTION = 'rtl'
-FS_SIDE_TITLE_PAGES = 'Pages'
-FS_SIDE_TITLE_MENUITEM = 'Menu Items'
-FS_SIDE_TITLE_LINKS = 'Links'
-FS_SIDE_TITLE_SOCIAL = 'Social'
+P_SIDE_TITLE_PAGES = 'Pages'
+P_SIDE_TITLE_MENUITEM = 'Menu Items'
+P_SIDE_TITLE_LINKS = 'روابط'
+P_SIDE_TITLE_SOCIAL = ''
+P_SIDE_MSG = ''
+P_DISQUS_SITENAME = 'kaluaim'
