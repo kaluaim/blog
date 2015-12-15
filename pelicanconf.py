@@ -40,13 +40,14 @@ DEFAULT_PAGINATION = 5
 
 
 # Theme settings
-TAGLINE = ''
+P_TAGLINE = 'تقنيـــة وعوامـــل أخـــرى'
 
 # if 'rtl' if will import rtl.css to the site.
 SITE_DIRECTION = 'rtl'
-P_SIDE_TITLE_PAGES = 'Pages'
+P_SIDE_TITLE_PAGES = ''
 P_SIDE_TITLE_MENUITEM = 'Menu Items'
 P_SIDE_TITLE_LINKS = 'روابط'
 P_SIDE_TITLE_SOCIAL = ''
+P_SIDE_TEXT_RSS = 'خلاصات'
 P_SIDE_MSG = ''
 P_DISQUS_SITENAME = 'kaluaim'
