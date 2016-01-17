@@ -39,15 +39,15 @@ DEFAULT_PAGINATION = 5
 #RELATIVE_URLS = True
 
 
-# Theme settings
-P_TAGLINE = 'تقنيـــة وعوامـــل أخـــرى'
 
+
+# Sardine configurations
 # if 'rtl' if will import rtl.css to the site.
-SITE_DIRECTION = 'rtl'
-P_SIDE_TITLE_PAGES = ''
-P_SIDE_TITLE_MENUITEM = 'Menu Items'
-P_SIDE_TITLE_LINKS = 'روابط'
-P_SIDE_TITLE_SOCIAL = ''
-P_SIDE_TEXT_RSS = 'خلاصات'
-P_SIDE_MSG = ''
-P_DISQUS_SITENAME = 'kaluaim'
+SRDN_SITE_DIRECTION = 'rtl'
+SRDN_TAGLINE = 'تقنيـــة وعوامـــل أخـــرى'
+SRDN_SIDE_TITLE_PAGES = 'Pages'
+SRDN_SIDE_TITLE_MENUITEM = 'Items'
+SRDN_SIDE_TITLE_LINKS = 'Links'
+SRDN_SIDE_TITLE_SOCIAL = 'Social'
+SRDN_SIDE_MSG = 'This is a msg area, you can use it whatever you want.'
+SRDN_FOOTER_CR_YEAR = '2016'
