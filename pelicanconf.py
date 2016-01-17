@@ -10,12 +10,8 @@ TIMEZONE = 'Asia/Riyadh'
 DEFAULT_LANG = u'ar'
 STATIC_PATHS = ['uploads']
 DEFAULT_CATEGORY = 'misc'
-<<<<<<< HEAD
-THEME = '/Users/khalidAlnuaim/workspace/sardine'
-=======
-THEME = '/Users/khalidAlnuaim/workspace/theme'
->>>>>>> 6e13b8547e9f6b5bc187067987a745caeb4eb04d
-LOCALE = ('en')
+THEME = '/Users/khalidAlnuaim/workspace/sardine/theme'
+LOCALE = ('ar')
 DEFAULT_DATE_FORMAT = '%d / %m / %Y'
 
 # Feed generation is usually not desired when developing
