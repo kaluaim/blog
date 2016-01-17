@@ -10,7 +10,7 @@ TIMEZONE = 'Asia/Riyadh'
 DEFAULT_LANG = u'ar'
 STATIC_PATHS = ['uploads']
 DEFAULT_CATEGORY = 'misc'
-THEME = '/Users/khalidAlnuaim/workspace/theme'
+THEME = '/Users/khalidAlnuaim/workspace/sardine'
 LOCALE = ('en')
 DEFAULT_DATE_FORMAT = '%d / %m / %Y'
 
