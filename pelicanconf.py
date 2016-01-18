@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'خالد'
 SITENAME = u'مدونة كاليّم'
-SITEURL = ''
+SITEURL = 'http://kalua.im/blog/'
 PATH = 'content'
 TIMEZONE = 'Asia/Riyadh'
 DEFAULT_LANG = u'ar'
