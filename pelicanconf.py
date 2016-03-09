@@ -36,7 +36,7 @@ SOCIAL = (('twiiter', '#'),
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 
 
@@ -45,9 +45,9 @@ DEFAULT_PAGINATION = 5
 # if 'rtl' if will import rtl.css to the site.
 SRDN_SITE_DIRECTION = 'rtl'
 SRDN_TAGLINE = 'تقنيـــة وعوامـــل أخـــرى'
-SRDN_SIDE_TITLE_PAGES = 'Pages'
-SRDN_SIDE_TITLE_MENUITEM = 'Items'
-SRDN_SIDE_TITLE_LINKS = 'Links'
-SRDN_SIDE_TITLE_SOCIAL = 'Social'
-SRDN_SIDE_MSG = 'This is a msg area, you can use it whatever you want.'
+SRDN_SIDE_TITLE_PAGES = ''
+SRDN_SIDE_TITLE_MENUITEM = ''
+SRDN_SIDE_TITLE_LINKS = ''
+SRDN_SIDE_TITLE_SOCIAL = ''
+SRDN_SIDE_MSG = ''
 SRDN_FOOTER_CR_YEAR = '2016'
