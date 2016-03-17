@@ -22,15 +22,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('linktesting', '#'),)
+LINKS = ()
 
 
 # Social widget
-SOCIAL = (('twiiter', '#'),
-          ('linkedin', '#'),)
+SOCIAL = (('تويتر', '#', 'fa fa-twitter'),
+          ('لينكدان', '#', 'fa fa-linkedin'),)
 
 
 DEFAULT_PAGINATION = 5
