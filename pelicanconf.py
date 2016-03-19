@@ -49,6 +49,7 @@ SRDN_SIDE_TITLE_LINKS = ''
 SRDN_SIDE_TITLE_SOCIAL = ''
 SRDN_SIDE_MSG = ''
 SRDN_RSS_TITLE = 'الخلاصات'
+SRDN_CATEGORY_TEXT = 'تصنيف:'
 SRDN_DISQUS_SITENAME = 'kaluaim'
 
 # HTML footer lines, after each line <br/> will be added.
