@@ -41,6 +41,7 @@ RELATIVE_URLS = True
 # Sardine configurations
 # if 'rtl' if will import rtl.css to the site.
 SRDN_SITE_DIRECTION = 'rtl'
+SRDN_SITE_LOGO = 'kaluaim.png'
 SRDN_TAGLINE = 'تقنيـــة وعوامـــل أخـــرى'
 SRDN_SIDE_TITLE_PAGES = ''
 SRDN_SIDE_TITLE_MENUITEM = ''
