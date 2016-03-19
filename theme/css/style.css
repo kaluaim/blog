@@ -96,6 +96,7 @@ li > ul {
 li > ol {
   margin: 0 0 0 1.5em;
 }
+
 /* header */
 header {
 
@@ -141,7 +142,7 @@ header > .content > h2 {
   margin: 0;
   font-weight: normal;
   font-size: 0.9em;
-  color: #313131;
+  color: #A0ADB5;
 }
 
 
@@ -252,6 +253,10 @@ article > .header > h2 > a {
 
 article > .content {
   margin-top: 1.5em;
+}
+
+.article_meta {
+  font-size: 0.7em;
 }
 
 /* paginator */
