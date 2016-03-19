@@ -47,4 +47,9 @@ SRDN_SIDE_TITLE_MENUITEM = ''
 SRDN_SIDE_TITLE_LINKS = ''
 SRDN_SIDE_TITLE_SOCIAL = ''
 SRDN_SIDE_MSG = ''
-SRDN_FOOTER_CR_YEAR = '2016'
+SRDN_RSS_TITLE = 'الخلاصات'
+SRDN_DISQUS_SITENAME = 'kaluaim'
+
+# HTML footer lines, after each line <br/> will be added.
+SRDN_FOOTER_LINES = (('<span>خالد</span>'),
+                     ('<span>بحب استخدم <a href="http://blog.getpelican.com/" lang="en">بيلكن</a>، و <a href="https://github.com/kaluaim/sardine" lang="en">سردين</a></span>'),)
