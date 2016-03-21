@@ -241,7 +241,7 @@ article > .header > .date {
 
 article > .header > h2 {
   font-size: 2.1em;
-  line-height: 1.2em;
+  line-height: 0.7em;
   letter-spacing: -1px;
   text-indent: -2px;
 }
