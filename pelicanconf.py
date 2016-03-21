@@ -33,7 +33,7 @@ SOCIAL = (('تويتر', '#', 'fa fa-twitter'),
           ('لينكدان', '#', 'fa fa-linkedin'),)
 
 
-#   _____               _ _            
+#   _____               _ _
 #  / ____|             | (_)
 # | (___   __ _ _ __ __| |_ _ __   ___
 #  \___ \ / _` | '__/ _` | | '_ \ / _ \
@@ -50,10 +50,11 @@ SRDN_SIDE_TITLE_MENUITEM = ''
 SRDN_SIDE_TITLE_LINKS = ''
 SRDN_SIDE_TITLE_SOCIAL = ''
 SRDN_SIDE_MSG = ''
-SRDN_RSS_TITLE = 'الخلاصات'
+SRDN_RSS_TITLE = 'الإشتراك عبر الخلاصات'
+SRDN_EMAIL_TITLE = 'الإشتراك عبر البريد الإلكتروني'
 SRDN_CATEGORY_TEXT = 'تصنيف:'
 SRDN_DISQUS_SITENAME = 'kaluaim'
 
 # HTML footer lines, after each line <br/> will be added.
-SRDN_FOOTER_LINES = (('<span>خالد</span>'),
-                     ('<span>بحب استخدم <a href="http://blog.getpelican.com/" lang="en">بيلكن</a>، و <a href="https://github.com/kaluaim/sardine" lang="en">سردين</a></span>'),)
+SRDN_FOOTER_LINES = (('<span>جميع الحقوق <a href="http://www.gnu.org/licenses/copyleft.ar.html" target="_blank">متروكة</a></span>'),
+                     ('<span>بحب استخدم <a href="http://blog.getpelican.com/">بيلكن</a> و <a href="https://github.com/kaluaim/sardine">سردين</a></span>'),)
