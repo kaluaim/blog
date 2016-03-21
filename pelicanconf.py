@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+# Uncomment following line if you want document-relative URLs when developing
+RELATIVE_URLS = True
+
 AUTHOR = u'خالد'
 SITENAME = u'مدونة كاليّم'
 SITEURL = 'http://kalua.im/blog/'
@@ -13,6 +16,7 @@ DEFAULT_CATEGORY = 'misc'
 THEME = '/Users/khalidAlnuaim/workspace/sardine/theme'
 LOCALE = ('ar')
 DEFAULT_DATE_FORMAT = '%d / %m / %Y'
+DEFAULT_PAGINATION = 5
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -24,19 +28,17 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = ()
 
-
 # Social widget
 SOCIAL = (('تويتر', '#', 'fa fa-twitter'),
           ('لينكدان', '#', 'fa fa-linkedin'),)
 
 
-DEFAULT_PAGINATION = 5
-
-# Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
-
-
-
+#   _____               _ _            
+#  / ____|             | (_)
+# | (___   __ _ _ __ __| |_ _ __   ___
+#  \___ \ / _` | '__/ _` | | '_ \ / _ \
+#  ____) | (_| | | | (_| | | | | |  __/
+# |_____/ \__,_|_|  \__,_|_|_| |_|\___| configurations
 
 # Sardine configurations
 # if 'rtl' if will import rtl.css to the site.
