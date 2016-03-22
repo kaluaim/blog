@@ -18,6 +18,10 @@ LOCALE = ('ar')
 DEFAULT_DATE_FORMAT = '%d / %m / %Y'
 DEFAULT_PAGINATION = 5
 
+PLUGINS = [
+    'pelican_youtube',
+]
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None

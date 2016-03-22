@@ -76,7 +76,7 @@ Server) مثل (`MIT PGP Public Key Server <http://pgp.mit.edu/>`__) أو
 
 
 الموقع الرسمي لإضافة
-`**Mailvelope** <http://www.mailvelope.com/help>`__ يقدم شرح ممتاز
+`Mailvelope <http://www.mailvelope.com/help>`__ يقدم شرح ممتاز
 لكيفية إستخدام الإضافة والتعامل معها. وايضا فيديو من lifehacker يشرح
 بشكل سريع استيراد المفتاح واستخدام الإضافة.
 
@@ -84,6 +84,9 @@ Server) مثل (`MIT PGP Public Key Server <http://pgp.mit.edu/>`__) أو
 
 فيديو آخر من **hak5** يشرح بشكل مفصلة إضافة \ **Mailvelope** (الشرح
 يبداء من الدقيقة 5 تقريباً)
+
+.. youtube:: 4ba0K-DhoGo
+    :class: youtube-16x9
 
 ----
 
