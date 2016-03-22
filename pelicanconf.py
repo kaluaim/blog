@@ -38,9 +38,9 @@ SOCIAL = (('تويتر', '#', 'fa fa-twitter'),
 # | (___   __ _ _ __ __| |_ _ __   ___
 #  \___ \ / _` | '__/ _` | | '_ \ / _ \
 #  ____) | (_| | | | (_| | | | | |  __/
-# |_____/ \__,_|_|  \__,_|_|_| |_|\___| configurations
+# |_____/ \__,_|_|  \__,_|_|_| |_|\___| Configurations
 
-# Sardine configurations
+# If any of the filed is empty it will not be rendared.
 # if 'rtl' if will import rtl.css to the site.
 SRDN_SITE_DIRECTION = 'rtl'
 SRDN_SITE_LOGO = 'kaluaim.png'
@@ -50,8 +50,15 @@ SRDN_SIDE_TITLE_MENUITEM = ''
 SRDN_SIDE_TITLE_LINKS = ''
 SRDN_SIDE_TITLE_SOCIAL = ''
 SRDN_SIDE_MSG = ''
+
+# RSS Feed. for example use feedburnr
 SRDN_RSS_TITLE = 'الإشتراك عبر الخلاصات'
+SRDN_RSS_URL = ''
+
+# Email Feed
 SRDN_EMAIL_TITLE = 'الإشتراك عبر البريد الإلكتروني'
+SRDN_EMAIL_URL = ''
+
 SRDN_CATEGORY_TEXT = 'تصنيف:'
 SRDN_DISQUS_SITENAME = 'kaluaim'
 
