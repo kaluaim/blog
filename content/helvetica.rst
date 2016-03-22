@@ -19,7 +19,7 @@ Miedinger) و إدورد هوفمان (Eduard Hoffmann). ولمدة تزيد ع�
 
  
 
-`Helvetica <{filename}/uploads/2009/helvetica/helvetica.zip>`__\
+`Helvetica <{filename}/uploads/2009/helvetica/Helvetica.zip>`__\
 
 
 لتحميل الخط الاصلي بالإضافة إلى تحديثين له.

@@ -7,7 +7,7 @@ RELATIVE_URLS = True
 
 AUTHOR = u'خالد'
 SITENAME = u'مدونة كاليّم'
-SITEURL = 'http://kalua.im/blog/'
+SITEURL = 'http://kalua.im/blog'
 PATH = 'content'
 TIMEZONE = 'Asia/Riyadh'
 DEFAULT_LANG = u'ar'
