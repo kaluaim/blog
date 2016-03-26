@@ -6,7 +6,7 @@ from __future__ import unicode_literals
 RELATIVE_URLS = True
 
 AUTHOR = u'خالد'
-SITENAME = u'مدونة كاليّم'
+SITENAME = u'مدونة كاليم'
 SITEURL = 'http://kalua.im/blog'
 PATH = 'content'
 TIMEZONE = 'Asia/Riyadh'
@@ -34,7 +34,8 @@ LINKS = ()
 
 # Social widget
 SOCIAL = (('تويتر', '#', 'fa fa-twitter'),
-          ('لينكدان', '#', 'fa fa-linkedin'),)
+          ('لينكدان', '#', 'fa fa-linkedin'),
+          ('قيت هب', '#', 'fa fa-github'),)
 
 
 #   _____               _ _
