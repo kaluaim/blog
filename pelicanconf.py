@@ -11,7 +11,13 @@ SITEURL = 'http://kalua.im/blog'
 PATH = 'content'
 TIMEZONE = 'Asia/Riyadh'
 DEFAULT_LANG = u'ar'
-STATIC_PATHS = ['uploads']
+STATIC_PATHS = ['uploads',
+                'extra/robots.txt',
+                'extra/favicon.ico']
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
 DEFAULT_CATEGORY = 'misc'
 THEME = '/Users/khalidAlnuaim/workspace/sardine/theme'
 LOCALE = ('ar')
@@ -58,13 +64,14 @@ SRDN_SIDE_MSG = ''
 
 # RSS Feed. for example use feedburnr
 SRDN_RSS_TITLE = 'الإشتراك عبر الخلاصات'
-SRDN_RSS_URL = ''
+SRDN_RSS_URL = '#'
 
 # Email Feed
 SRDN_EMAIL_TITLE = 'الإشتراك عبر البريد الإلكتروني'
-SRDN_EMAIL_URL = ''
+SRDN_EMAIL_URL = '#'
 
 SRDN_CATEGORY_TEXT = 'تصنيف:'
+SRDN_TAG_TEXT = 'وسوم:'
 SRDN_DISQUS_SITENAME = 'kaluaim'
 
 # HTML footer lines, after each line <br/> will be added.
