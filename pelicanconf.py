@@ -56,10 +56,10 @@ SOCIAL = (('تويتر', '#', 'fa fa-twitter'),
 SRDN_SITE_DIRECTION = 'rtl'
 SRDN_SITE_LOGO = 'kaluaim.png'
 SRDN_TAGLINE = 'تقنيـــة وعوامـــل أخـــرى'
-SRDN_SIDE_TITLE_PAGES = ''
+SRDN_SIDE_TITLE_PAGES = 'صفحات'
 SRDN_SIDE_TITLE_MENUITEM = ''
 SRDN_SIDE_TITLE_LINKS = ''
-SRDN_SIDE_TITLE_SOCIAL = ''
+SRDN_SIDE_TITLE_SOCIAL = 'روابط'
 SRDN_SIDE_MSG = ''
 
 # RSS Feed. for example use feedburnr
