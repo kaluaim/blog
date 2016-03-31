@@ -39,9 +39,10 @@ AUTHOR_FEED_RSS = None
 LINKS = ()
 
 # Social widget
-SOCIAL = (('تويتر', '#', 'fa fa-twitter'),
-          ('لينكدان', '#', 'fa fa-linkedin'),
-          ('قيت هب', '#', 'fa fa-github'),)
+SOCIAL = (('تويتر', 'https://twitter.com/kaluaim/', 'fa fa-twitter'),
+          ('لينكدان', 'https://www.linkedin.com/in/khalidalnuaim/', 'fa fa-linkedin'),
+          ('قيت هب', 'https://github.com/kaluaim/', 'fa fa-github'),
+          ('انستقرام', 'https://instagram.com/kaluaim/', 'fa fa-instagram'),)
 
 
 #   _____               _ _
