@@ -1,4 +1,4 @@
-My Personal Bolg
+My Personal Blog
 ----------------
 
-Using Pelican
+Powred by `Pelican <http://blog.getpelican.com/>`__, using `Sardine <https://github.com/kaluaim/sardine>`__
