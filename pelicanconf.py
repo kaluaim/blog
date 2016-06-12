@@ -6,7 +6,7 @@ from __future__ import unicode_literals
 RELATIVE_URLS = False
 
 AUTHOR = u'خالد'
-SITENAME = u'مدونة كاليم'
+SITENAME = u'مدونّة كاليم'
 SITEURL = 'http://kalua.im/blog'
 PATH = 'content'
 TIMEZONE = 'Asia/Riyadh'
@@ -15,8 +15,8 @@ STATIC_PATHS = ['uploads',
                 'extra/robots.txt',
                 'extra/favicon.ico']
 EXTRA_PATH_METADATA = {
-    'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/favicon.ico': {'path': 'favicon.ico'}
+    'extra/robots.txt': {'path': 'blog/robots.txt'},
+    'extra/favicon.ico': {'path': 'blog/favicon.ico'}
 }
 DEFAULT_CATEGORY = 'misc'
 THEME = '/Users/khalidAlnuaim/workspace/sardine/theme'
@@ -62,11 +62,11 @@ SRDN_SIDE_MSG = ''
 
 # RSS Feed. for example use feedburnr
 SRDN_RSS_TITLE = 'الإشتراك عبر الخلاصات'
-SRDN_RSS_URL = '#'
+SRDN_RSS_URL = 'http://feeds.feedburner.com/kaluaim'
 
 # Email Feed
 SRDN_EMAIL_TITLE = 'الإشتراك عبر البريد الإلكتروني'
-SRDN_EMAIL_URL = '#'
+SRDN_EMAIL_URL = 'https://feedburner.google.com/fb/a/mailverify?uri=kaluaim&amp;loc=en_US'
 
 SRDN_CATEGORY_TEXT = 'تصنيف:'
 SRDN_TAG_TEXT = 'وسوم:'
