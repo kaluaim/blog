@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 #Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = False
 
 AUTHOR = u'خالد'
 SITENAME = u'مدونة كاليم'
