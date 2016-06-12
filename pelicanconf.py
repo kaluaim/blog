@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-# Uncomment following line if you want document-relative URLs when developing
+#Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
 AUTHOR = u'خالد'
@@ -29,11 +29,8 @@ PLUGINS = [
 ]
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+FEED_DOMAIN = SITEURL
+FEED_ALL_ATOM = 'feeds/atom.xml'
 
 # Blogroll
 LINKS = ()
@@ -53,7 +50,7 @@ SOCIAL = (('تويتر', 'https://twitter.com/kaluaim/', 'fa fa-twitter'),
 # |_____/ \__,_|_|  \__,_|_|_| |_|\___| Configurations
 
 # If any of the filed is empty it will not be rendared.
-# if 'rtl' if will import rtl.css to the site.
+# if 'rtl' then will import rtl.css to the site.
 SRDN_SITE_DIRECTION = 'rtl'
 SRDN_SITE_LOGO = 'kaluaim.png'
 SRDN_TAGLINE = 'تقنيـــة وعوامـــل أخـــرى'
@@ -77,4 +74,5 @@ SRDN_DISQUS_SITENAME = 'kaluaim'
 
 # HTML footer lines, after each line <br/> will be added.
 SRDN_FOOTER_LINES = (('<span>جميع الحقوق <a href="http://www.gnu.org/licenses/copyleft.ar.html" target="_blank">متروكة</a></span>'),
-                     ('<span>بحب استخدم <a href="http://blog.getpelican.com/">بيلكن</a> و <a href="https://github.com/kaluaim/sardine">سردين</a></span>'),)
+                     ('<span>بحب استخدم <a href="http://blog.getpelican.com/" target="_blank">بيلكن</a> و <a href="https://github.com/kaluaim/sardine" target="_blank">سردين</a></span>'),
+                     ('<span>مستضاف على <a href="https://pages.github.com/" target="_blank">صفحات قيت هب</a></span>'),)
