@@ -39,7 +39,8 @@ LINKS = ()
 SOCIAL = (('تويتر', 'https://twitter.com/kaluaim/', 'fa fa-twitter'),
           ('لينكدان', 'https://www.linkedin.com/in/khalidalnuaim/', 'fa fa-linkedin'),
           ('قيت هب', 'https://github.com/kaluaim/', 'fa fa-github'),
-          ('انستقرام', 'https://instagram.com/kaluaim/', 'fa fa-instagram'),)
+          ('انستقرام', 'https://instagram.com/kaluaim/', 'fa fa-instagram'),
+          ('المزيد...', 'http://kalua.im/blog/pages/social.html', 'fa fa-angle-double-left'),)
 
 
 #   _____               _ _
