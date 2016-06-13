@@ -36,11 +36,11 @@ FEED_ALL_ATOM = 'feeds/atom.xml'
 LINKS = ()
 
 # Social widget
-SOCIAL = (('تويتر', 'https://twitter.com/kaluaim/', 'fa fa-twitter'),
-          ('لينكدان', 'https://www.linkedin.com/in/khalidalnuaim/', 'fa fa-linkedin'),
-          ('قيت هب', 'https://github.com/kaluaim/', 'fa fa-github'),
-          ('انستقرام', 'https://instagram.com/kaluaim/', 'fa fa-instagram'),
-          ('المزيد...', 'http://kalua.im/blog/pages/social.html', 'fa fa-angle-double-left'),)
+SOCIAL = (('تويتر', 'https://twitter.com/kaluaim/', 'fa fa-twitter', '_blank'),
+          ('لينكدان', 'https://www.linkedin.com/in/khalidalnuaim/', 'fa fa-linkedin', '_blank'),
+          ('قيت هب', 'https://github.com/kaluaim/', 'fa fa-github', '_blank'),
+          ('انستقرام', 'https://instagram.com/kaluaim/', 'fa fa-instagram', '_blank'),
+          ('المزيد...', 'http://kalua.im/blog/pages/social.html', 'fa fa-angle-double-left', '_self'),)
 
 
 #   _____               _ _
@@ -50,7 +50,7 @@ SOCIAL = (('تويتر', 'https://twitter.com/kaluaim/', 'fa fa-twitter'),
 #  ____) | (_| | | | (_| | | | | |  __/
 # |_____/ \__,_|_|  \__,_|_|_| |_|\___| Configurations
 
-# If any of the filed is empty it will not be rendared.
+# If any of the fields are empty it will not be rendared.
 # if 'rtl' then will import rtl.css to the site.
 SRDN_SITE_DIRECTION = 'rtl'
 SRDN_SITE_LOGO = 'kaluaim.png'
