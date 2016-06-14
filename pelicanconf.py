@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 #Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 
 AUTHOR = u'خالد'
 SITENAME = u'مدونّة كاليم'
@@ -75,5 +75,5 @@ SRDN_DISQUS_SITENAME = 'kaluaim'
 
 # HTML footer lines, after each line <br/> will be added.
 SRDN_FOOTER_LINES = (('<span>جميع الحقوق <a href="http://www.gnu.org/licenses/copyleft.ar.html" target="_blank">متروكة</a></span>'),
-                     ('<span>بحب استخدم <a href="http://blog.getpelican.com/" target="_blank">بيلكن</a> و <a href="https://github.com/kaluaim/sardine" target="_blank">سردين</a></span>'),
+                     ('<span>بحب استخدم <a href="http://blog.getpelican.com/" target="_blank">بيليكن</a> و <a href="https://github.com/kaluaim/sardine" target="_blank">سردين</a></span>'),
                      ('<span>مستضاف على <a href="https://pages.github.com/" target="_blank">صفحات قيت هب</a></span>'),)
