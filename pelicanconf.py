@@ -23,6 +23,7 @@ THEME = '/Users/khalidAlnuaim/workspace/sardine/theme'
 LOCALE = ('ar')
 DEFAULT_DATE_FORMAT = '%d / %m / %Y'
 DEFAULT_PAGINATION = 5
+PAGE_ORDER_BY = 'order'
 
 PLUGINS = [
     'pelican_youtube',
@@ -60,6 +61,7 @@ SRDN_SIDE_TITLE_MENUITEM = ''
 SRDN_SIDE_TITLE_LINKS = ''
 SRDN_SIDE_TITLE_SOCIAL = 'روابط'
 SRDN_SIDE_MSG = ''
+SRDN_GOOGLE_ANALYTICS = 'UA-43312127-5'
 
 # RSS Feed. for example use feedburnr
 SRDN_RSS_TITLE = 'الإشتراك عبر الخلاصات'
