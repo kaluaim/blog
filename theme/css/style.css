@@ -215,6 +215,22 @@ header > .content > h2 {
   border-radius: 2px;
 }
 
+@media only screen and (max-width: 880px) {
+  .search {
+    float: none;
+    margin: 1em 0 0 0;
+  }
+
+  #tipue_search_input {
+    padding: 11.5px 12px 13px 20px;
+    background: #fff url('../tipuesearch/img/search.png') no-repeat 15px 15px;
+  }
+
+  .search button {
+    display: none;
+  }
+}
+
 /* body */
 .wrapper {
   width: 90%;
