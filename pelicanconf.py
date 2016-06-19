@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 #Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+LOAD_CONTENT_CACHE = False
 
 AUTHOR = u'خالد'
 SITENAME = u'مدونّة كاليم'
@@ -24,10 +25,15 @@ LOCALE = ('ar')
 DEFAULT_DATE_FORMAT = '%d / %m / %Y'
 DEFAULT_PAGINATION = 5
 PAGE_ORDER_BY = 'order'
-
+PAGE_PATHS = ['pages']
+PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = [
     'pelican_youtube',
+    'neighbors',
+    'tipue_search',
 ]
+
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
