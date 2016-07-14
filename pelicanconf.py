@@ -40,7 +40,8 @@ FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = 'feeds/atom.xml'
 
 # Blogroll
-LINKS = ()
+LINKS = (('المشاريع', 'http://kalua.im/projects/'),
+         ('السيرة الذاتية', 'https://cdn.rawgit.com/kaluaim/resume/master/Khalid_Alnuaim_Resume.pdf'),)
 
 # Social widget
 SOCIAL = (('تويتر', 'https://twitter.com/kaluaim/', 'fa fa-twitter', '_blank'),
