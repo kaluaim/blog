@@ -72,8 +72,8 @@ SRDN_SIDE_TITLE_SOCIAL = 'روابط'
 SRDN_SIDE_MSG = ''
 SRDN_GOOGLE_ANALYTICS = 'UA-43312127-4'
 
-SRDN_PAGES = (('المشاريع', 'http://kalua.im/projects/'),
-         ('السيرة الذاتية', 'https://cdn.rawgit.com/kaluaim/resume/master/Khalid_Alnuaim_Resume.pdf'),)
+SRDN_PAGES = (('السيرة الذاتية', 'https://cdn.rawgit.com/kaluaim/resume/master/Khalid_Alnuaim_Resume.pdf'),
+              ('المشاريع', 'http://kalua.im/projects/'),)
 
 # RSS Feed. for example use feedburnr
 SRDN_RSS_TITLE = 'الإشتراك عبر الخلاصات'
