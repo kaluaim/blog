@@ -39,9 +39,11 @@ DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'sear
 FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = 'feeds/atom.xml'
 
+# MENUITEMS
+MENUITEMS = ()
+
 # Blogroll
-LINKS = (('المشاريع', 'http://kalua.im/projects/'),
-         ('السيرة الذاتية', 'https://cdn.rawgit.com/kaluaim/resume/master/Khalid_Alnuaim_Resume.pdf'),)
+LINKS = ()
 
 # Social widget
 SOCIAL = (('تويتر', 'https://twitter.com/kaluaim/', 'fa fa-twitter', '_blank'),
@@ -69,6 +71,9 @@ SRDN_SIDE_TITLE_LINKS = ''
 SRDN_SIDE_TITLE_SOCIAL = 'روابط'
 SRDN_SIDE_MSG = ''
 SRDN_GOOGLE_ANALYTICS = 'UA-43312127-4'
+
+SRDN_PAGES = (('المشاريع', 'http://kalua.im/projects/'),
+         ('السيرة الذاتية', 'https://cdn.rawgit.com/kaluaim/resume/master/Khalid_Alnuaim_Resume.pdf'),)
 
 # RSS Feed. for example use feedburnr
 SRDN_RSS_TITLE = 'الإشتراك عبر الخلاصات'
