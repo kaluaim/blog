@@ -65,6 +65,7 @@ SOCIAL = (('تويتر', 'https://twitter.com/kaluaim/', 'fa fa-twitter', '_blan
 SRDN_SITE_DIRECTION = 'rtl'
 SRDN_SITE_LOGO = 'kaluaim.png'
 SRDN_TAGLINE = 'تقنيـــة وعوامـــل أخـــرى'
+SRDN_SEARCH_TEXT = 'ابحث...'
 SRDN_SIDE_TITLE_PAGES = 'صفحات'
 SRDN_SIDE_TITLE_MENUITEM = ''
 SRDN_SIDE_TITLE_LINKS = ''
