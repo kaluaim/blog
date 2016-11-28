@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 #Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 LOAD_CONTENT_CACHE = False
+AUTORELOAD_IGNORE_CACHE = True
 
 AUTHOR = u'خالد'
 SITENAME = u'مدونّة كاليم'
@@ -31,7 +32,9 @@ PLUGINS = [
     'pelican_youtube',
     'neighbors',
     'tipue_search',
+    'lightbox',
 ]
+READERS = {'html': None, 'md': None}
 
 DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
 
@@ -87,6 +90,8 @@ SRDN_EMAIL_URL = 'https://feedburner.google.com/fb/a/mailverify?uri=kaluaim&amp;
 SRDN_CATEGORY_TEXT = 'تصنيف:'
 SRDN_TAG_TEXT = 'وسوم:'
 SRDN_DISQUS_SITENAME = 'kaluaim'
+
+SRDN_PAGE_LAST_UPDATE_TITLE = 'آخر تحديث:'
 
 # HTML footer lines, after each line <br/> will be added.
 SRDN_FOOTER_LINES = (('<span>جميع الحقوق <a href="http://www.gnu.org/licenses/copyleft.ar.html" target="_blank">متروكة</a></span>'),

@@ -3,6 +3,7 @@
 
 :slug: privacy-policy
 :status: hidden
+:lastupdate: ٢٨ نوفمبر ٢٠١٦م 
 
 يستخدم هذا الموقع جوجل أناليتكس (|google_analytics|)  لتتبع سلوك المستخدم وعدد زيارات الصفحات عن طريق تخزين ملفات تعريف الارتباط (|cookie|) في جهاز المستخدم.
 
@@ -33,7 +34,7 @@
 
 
 .. |google_analytics| raw:: html
-
+    
     <a href="https://www.google.com/analytics/" target="_blank">Google Analytics</a>
 
 .. |cookie| raw:: html
