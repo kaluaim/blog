@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /blog/uploads/img/workstation/
+Disallow: /uploads/img/workstation/
+Disallow: /blog/uploads/img/about/
+Disallow: /uploads/img/about/
+Disallow: /blog/uploads/img/box/
+Disallow: /uploads/img/box/
