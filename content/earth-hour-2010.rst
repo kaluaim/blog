@@ -17,7 +17,7 @@
 أو
 `الموقع الرسمي للحدث في السعودية <http://www.saudiwildlife.com/earthhour/>`__
 أو
-`تدوينتي  للعام الماضي عن الحدث <http://blog.kalua.im/386/earthhour-2009/>`__
+`تدوينتي  للعام الماضي عن الحدث <http://kalua.im/blog/earth-hour-2009.html>`__
 .
 
 .. |image0| image:: {filename}/uploads/2010/earth-hour-2010/earthhour.jpg
